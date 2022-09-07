@@ -114,4 +114,4 @@ elif select == '99' :
     print " kaissar close Encrypt   "
     sys.exit()
 else : 
-    print "Error In Input !! \n\nPlease Try Again >>> ." 
+    طباعة  "خطأ في الإدخال !! \ n \ n الرجاء المحاولة مرة أخرى >>>."  
